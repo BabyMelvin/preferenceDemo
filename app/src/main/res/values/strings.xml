@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">PreferenceScreenFull</string>
+    <string name="action_settings">Settings</string>
 </resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list_preference">
+        <item>Red</item>
+        <item>Black</item>
+        <item>Blue</item>
+        <item>Yellow</item>
+    </string-array>
+</resources>
